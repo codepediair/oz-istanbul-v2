@@ -169,7 +169,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <TextHoverEffect text="OZ ISTANBUL"/>
+      <TextHoverEffect text="ÖZ Istanbul"/>
     </footer>
   )
 }
