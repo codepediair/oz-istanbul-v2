@@ -66,7 +66,7 @@ export default function Footer() {
         <div className="space-y-4">
           <div className="flex items-center space-x-2">
             <Image src="/logo.png" alt="OZ Istanbul" width={40} height={40} />
-            <span className="text-xl font-bold">OZ Istanbul</span>
+            <span className="text-xl font-bold">ÖZ Istanbul</span>
           </div>
           <p className="text-sm text-muted-foreground">
             Beautiful UI components and templates built with Tailwind CSS. Create stunning user interfaces with modern

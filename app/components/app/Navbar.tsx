@@ -32,7 +32,7 @@ export default function Navbar() {
             <div className="container flex h-14 lg:w-1/2 sm:w-full backdrop-blur justify-between bg-slate-300/20 rounded-lg m-4 p-4 items-center">
                 <Link href="/" className="flex items-center">
                     <Image src="/logo.png" alt="OZ Istanbul" width={40} height={40} />
-                    <span className="font-bold">OZ Istanbul</span>
+                    <span className="font-bold">ÖZ Istanbul</span>
                 </Link>
                 <NavigationMenu>
                     <NavigationMenuList className="hidden md:flex gap-6">
